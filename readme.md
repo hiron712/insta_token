@@ -13,7 +13,7 @@ npm install
 ## 情報を設定
 .env にトークンなど設定
 
-##　実行
+## 実行
 
 ```
 node index.js
