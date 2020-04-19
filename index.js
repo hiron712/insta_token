@@ -33,7 +33,7 @@ function init(){
       let json = JSON.parse(body);
 
       if(json.error){
-
+        console.log('error');
       }else{
         access_token2 = JSON.parse(body).access_token;
         secondToken();
